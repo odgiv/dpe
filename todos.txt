@@ -1,0 +1,4 @@
+- Dataloader using keras ImageDataGenerator.
+- Would be nice to have stop_epoch when stop training.
+- Add residual connection.
+- Should global_concat be a layer? Would there be gradient? 
